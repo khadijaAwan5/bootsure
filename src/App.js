@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      hellow pakistan to entire world
+      hellow pakistan to entire world of pakistan
     </div>
   );
 }
