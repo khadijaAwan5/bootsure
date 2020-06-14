@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="app">
-      hellow pakistan to entire world of pakistan
+      hellow pakistan to entire world of pakistan to inia
     </div>
   );
 }
